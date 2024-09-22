@@ -5,8 +5,6 @@
 안녕하세요. 백엔드 개발자 안영준입니다. 🫡
 </div>
 
-
-
 # 🚀 Skils
 
 ### 💪 Language & Framework
@@ -14,7 +12,6 @@
 ![SpringBoot](https://img.shields.io/badge/spring&nbsp;boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 
 ### 💾 Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -45,11 +42,11 @@
 
 ---
 
-### 📫 How to reach me: dudwns1045@naver.com
+#### 📫 How to reach me: dudwns1045@naver.com
 
-<p align="center">
+#### ⏳ 2020 ~ 2021 : https://github.com/dudwns9331
 
+
+####
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farraysort&count_bg=%2314DF23&title_bg=%231B79D3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://img.shields.io/github/followers/arraysort?style=social)
-
-</p>
