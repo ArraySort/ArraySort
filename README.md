@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20YoengJun's%20Github!😁&height=200&animation=scaleIn&fontSize=40)
 
-안녕하세요. 백엔드 개발자 안영준입니다. 🫡
+안녕하세요. 백엔드 개발자 안영준입니다.
 </div>
 
 # 🚀 Skils
@@ -44,5 +44,4 @@
 
 
 ####
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farraysort&count_bg=%2314DF23&title_bg=%231B79D3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://img.shields.io/github/followers/arraysort?style=social)
